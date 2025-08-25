@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Bilal 👋
 
 <!--
 **Bilalmunir-Ai/Bilalmunir-Ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
