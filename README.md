@@ -1,1 +1,3 @@
-<h1 style="text-align: center;">Welcome to Codegainmers. 👋</h1>
+<div align="center">
+    <h1>Welcome to Codegainmers. 👋</h1>
+</div>
