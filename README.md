@@ -1,4 +1,5 @@
 <div align="center">
     <h1>Welcome to Codegainmers. 👋</h1>
 </div>
-<img src="banner.jpg">
+
+![Banner](https://github.com/Bilalmunir-Ai/Bilalmunir-Ai/blob/main/banner.png?raw=true)
