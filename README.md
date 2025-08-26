@@ -7,7 +7,7 @@
 
 <!-- Banner (Centered) -->
 <p align="center" style="margin: 0 0 20px;">
-  <img src="https://github.com/Bilalmunir-Ai/Bilalmunir-Ai/blob/main/banner.png?raw=true" alt="CodeGainmers Banner"/>
+  <img src="[https://github.com/Bilalmunir-Ai/Bilalmunir-Ai/blob/main/banner.png](https://github.com/Bilalmunir-Ai/Bilalmunir-Ai/blob/main/banner.ai.png?raw=true" alt="CodeGainmers Banner"/>
 </p>
 
 <!-- Body (Left-aligned, global font & color) -->
