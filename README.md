@@ -1,7 +1,7 @@
 <!-- Main Tagline (Centered) -->
 <div align="center">
   <h1 style="font-family:'Segoe UI',sans-serif;font-weight:bold;color:#eaeaea;font-size:32px;line-height:1.2;margin: 0 0 10px;">
-    Engineering Intelligence, Designing Possibilities.
+    Engineering Intelligence, Designing Possibilities
   </h1>
 </div>
 
@@ -11,7 +11,7 @@
 </p>
 
 <!-- Body (Left-aligned, global font & color) -->
-<div style="font-family:'Segoe UI',sans-serif;color:#eaeaea;font-size:16px;line-height:1.6;">
+<div style="font-family:'Segoe UI',sans-serif;color:#eaeaea;font-size:20px;line-height:1.6;">
 
   <h2 style="margin-top:0;">💫 About Me</h2>
   <h3 style="margin:6px 0 14px;">🚀 AI & ML Engineer | Python Developer | Creative Designer</h3>
