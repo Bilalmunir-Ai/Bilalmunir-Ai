@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Engineering Intelligence, Designing Possibilities.</h1>
+    <h1>Engineering Intelligence, Designing Possibilities</h1>
 </div>
 
 <p align="center">
@@ -9,16 +9,16 @@
 # 💫 About Me  
 ## 🚀 AI & ML Engineer | Python Developer | Creative Designer  
 
-I am passionate about transforming data into intelligent solutions and developing AI-driven applications. My expertise includes predictive modeling, data analysis, and machine learning using Python, pandas, NumPy, matplotlib, and scikit-learn.  
+I am passionate about transforming data into intelligent solutions and building AI-driven applications. My expertise includes predictive modeling, data analysis, and machine learning using **Python, pandas, NumPy, matplotlib, and scikit-learn**.  
 
-🎓 **Education:** Bachelor of Science in Computer Science, University of Gujrat  
-💼 **Experience:** Final Year Project in Flutter (Dart) and Firebase, multiple academic projects in Python & AI, and 3+ years of professional experience as a Creative Designer (Canva Pro)  
+🎓 **Education:** Bachelor of Science in Computer Science, *University of Gujrat*  
+💼 **Experience:** Final Year Project in **Flutter (Dart & Firebase)**, academic projects in **Python & AI**, and **3+ years** as a Creative Designer (*Canva Pro*)  
 
 ## 🛠️ Skills  
 - **AI & Machine Learning:** Python, pandas, NumPy, matplotlib, scikit-learn  
 - **Python Development:** Data analysis, predictive modeling, automation scripts  
-- **Flutter Development:** Cross-platform mobile applications (Dart, Firebase)  
-- **Creative Design:** Canva Pro – branding, visualization, and professional digital content    
+- **Flutter Development:** Cross-platform mobile apps (Dart, Firebase)  
+- **Creative Design:** Canva Pro – branding, visualization & digital content 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bilal_munir74/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bilalmunir-pk/) 
