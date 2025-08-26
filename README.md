@@ -1,5 +1,7 @@
 <div align="center">
-    <h1>Engineering Intelligence, Designing Possibilities</h1>
+    <h1 style="font-family: 'Poppins', sans-serif; font-weight: 600; color: #eaeaea;">
+        Engineering Intelligence, Designing Possibilities.
+    </h1>
 </div>
 
 <p align="center">
