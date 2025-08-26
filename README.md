@@ -1,7 +1,7 @@
 <!-- Main Tagline (Centered) -->
 <div align="center">
   <h1 style="font-family:'Segoe UI',sans-serif;font-weight:bold;color:#eaeaea;font-size:32px;line-height:1.2;margin: 0 0 10px;">
-    Engineering Intelligence, Designing Possibilities.
+    Engineering Intelligence, Designing Possibilities
   </h1>
 </div>
 
