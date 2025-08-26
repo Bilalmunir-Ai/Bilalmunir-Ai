@@ -75,6 +75,7 @@
   <hr style="border:0;border-top:1px solid #3a3a3a;margin: 18px 0;"/>
 
   <h2>📊 GitHub Stats</h2>
+  <div align="center">
   <p style="margin:10px 0 0;">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bilalmunir-Ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
     <br/>
@@ -82,6 +83,7 @@
     <br/>
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalmunir-Ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   </p>
+  </div>
 
 </div>
 
