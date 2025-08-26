@@ -4,18 +4,21 @@
 
 ![Banner](https://github.com/Bilalmunir-Ai/Bilalmunir-Ai/blob/main/banner.png?raw=true)
 
-# 💫 About Me:
+# 💫 About Me  
 ## 🚀 AI & ML Engineer | Python Developer | Creative Designer  
 
-Passionate about transforming data into intelligent solutions. I specialize in building predictive models and AI-driven applications using Python, pandas, NumPy, matplotlib, scikit-learn, and modern ML frameworks.  
+I am passionate about transforming data into intelligent solutions and developing AI-driven applications. My expertise includes predictive modeling, data analysis, and machine learning using Python, pandas, NumPy, matplotlib, and scikit-learn.  
 
-🎓 **Education:** Computer Science Graduate, University of Gujrat  
-💼 **Experience:** Multiple Python & AI academic projects, Flutter (Dart) development, and 3+ years as a Creative Designer (Canva Pro)  
-🎨 **Creative Skills:** Professional visual design with expertise in technical visualization and branding  
+🎓 **Education:** Bachelor of Science in Computer Science, University of Gujrat  
+💼 **Experience:** Final Year Project in Flutter (Dart) and Firebase, multiple academic projects in Python & AI, and 3+ years of professional experience as a Creative Designer (Canva Pro)  
 
-📌 **Featured Project:** *Smart Agent Tracer* – Flutter-based mobile application showcasing responsive design and user-centric development.  
+## 🛠️ Skills  
+- **AI & Machine Learning:** Python, pandas, NumPy, matplotlib, scikit-learn  
+- **Python Development:** Data analysis, predictive modeling, automation scripts  
+- **Flutter Development:** Cross-platform mobile applications (Dart, Firebase)  
+- **Creative Design:** Canva Pro – branding, visualization, and professional digital content  
 
-✨ **Mission:** Driving innovation as a skilled Python developer and creative designer at the intersection of AI, data science, and visual communication.  
+✨ **Mission:** To merge expertise in AI, Python, Flutter, and creative design to build innovative, user-focused solutions.   
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bilal_munir74/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bilalmunir-pk/) 
