@@ -1,8 +1,10 @@
 <div align="center">
-    <h1>Welcome to Codegainmers. 👋</h1>
+    <h1>“Engineering Intelligence, Designing Possibilities.”</h1>
 </div>
 
-![Banner](https://github.com/Bilalmunir-Ai/Bilalmunir-Ai/blob/main/banner.png?raw=true)
+<p align="center">
+  <img src="https://github.com/Bilalmunir-Ai/Bilalmunir-Ai/blob/main/banner.png?raw=true" alt="CodeGainmers Banner"/>
+</p>
 
 # 💫 About Me  
 ## 🚀 AI & ML Engineer | Python Developer | Creative Designer  
