@@ -5,7 +5,8 @@
 ![Banner](https://github.com/Bilalmunir-Ai/Bilalmunir-Ai/blob/main/banner.png?raw=true)
 
 # 💫 About Me:
-🚀 AI & ML Engineer | Python Developer | Creative Designer<br>Passionate about transforming data into intelligent solutions. I specialize in building predictive models and AI-driven applications using Python, pandas, NumPy, matplotlib, scikit-learn, and modern ML frameworks.<br>🎓 Education: Computer Science Graduate from University of Gujrat<br>💼 Experience: Multiple Python & AI academic projects, Flutter development (Dart), 3+ years as Creative Designer (Canva Pro)<br>🎨 Creative Skills: Professional visual design with expertise in technical visualization and branding<br>Featured Academic Project: Smart Agent Tracer - Flutter-based mobile application showcasing responsive design and user-centric development.<br>Mission: Driving innovation as a skilled Python developer and creative designer at the intersection of AI, data science, and visual communication.
+## 🚀 AI & ML Engineer | Python Developer | Creative Designer
+<br>Passionate about transforming data into intelligent solutions. I specialize in building predictive models and AI-driven applications using Python, pandas, NumPy, matplotlib, scikit-learn, and modern ML frameworks.<br>🎓 Education: Computer Science Graduate from University of Gujrat<br>💼 Experience: Multiple Python & AI academic projects, Flutter development (Dart), 3+ years as Creative Designer (Canva Pro)<br>🎨 Creative Skills: Professional visual design with expertise in technical visualization and branding<br>Featured Academic Project: Smart Agent Tracer - Flutter-based mobile application showcasing responsive design and user-centric development.<br>Mission: Driving innovation as a skilled Python developer and creative designer at the intersection of AI, data science, and visual communication.
 
 
 ## 🌐 Socials:
